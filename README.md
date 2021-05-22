@@ -2,7 +2,7 @@
 
 Hey! I will be launching my new website tomorrow after learning HTML,CSS from neogcamp.
 
-For know, I know
+For now, I know
 1. Javascript
 1. Node JS
 1. Repl.it
